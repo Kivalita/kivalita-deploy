@@ -1,0 +1,680 @@
+{
+	"solutions": {
+		"method": "Método",
+		"advantage": "Benefícios",
+		"details": "Clique aqui para mais detalhes",
+		"Gap Analysis": {
+			"title": "Gap Analysis",
+			"titleMetaDescription": "GAP ANALYSIS",
+			"description": "Quer mitigar riscos, custos, retrabalho e desenvolver melhorias em seu negócio? Sua empresa está precisando de um diagnóstico rápido? A Kivalita Consulting acredita que para iniciar mudanças é preciso saber por onde começar!",
+			"content": "<section class='introduction-section'> <h3>GAP ANALYSIS</h3> <h2 style='font-size: 28px;'>Quer mitigar riscos, custos, retrabalho e desenvolver melhorias em seu negócio?</h2></section><section class='introduction-section'><h2 style='font-size: 20px;'>Sua empresa está precisando de um diagnóstico rápido?</h2></section><section class='row' style='margin-top: 96px;'> <div class='col-md-12 col-lg-12' style='margin: 0 auto; text-align: center; font-size: 20px; font-weight: 500; font-family: Montserrat, Sans-serif; max-width: 900px;'> <p>A Kivalita Consulting acredita que para iniciar mudanças é preciso saber por onde começar!</p><p>Nada melhor do que iniciar com a detecção das falhas existentes no seu negócio!</p></div></section><section class='row' style='margin-top: 64px;'> <div class='col-md-12 col-lg-6' style='display: flex; align-items: center;'> <h3 style='max-width: 450px; font-size: 20px; font-weight: 500; font-family: Montserrat; margin: 0 auto 96px; text-align: center;'>O GAP Analysis pode ser aplicado em qualquer área do seu negócio.</h3> </div><div class='col-md-12 col-lg-6'> <div class='wraper-cta-left'><img alt='gap analysis' src='https://www.kivalitaconsulting.com/wp-content/uploads/2020/06/GAP-ANALYSIS.png'/><a href='/orcamento' class='button-cta'>Solicite um Orçamento</a></div></div></section><section class='introduction-section'><h2 style='font-size: 28px;'>Como a Kivalita executa o GAP Analysis?</h2></section><section class='row'> <div class='timeline col-md-6 col-lg-3' style='margin-top: 24px; padding: 0 26px 0 0;'> <div class=''> <div class='top-line'></div><div class='box'> <div class='text-inner'>A equipe Kivalita analisa toda a documentação envolvida no processo remotamente. A Kivalita oferece uma plataforma criptografada para atualização / armazenamento de documentos.</div></div></div><div class='block-arrow'><span>Fase 1</span></div></div><div class='timeline col-md-6 col-lg-3' style='margin-top: 24px; padding: 0 26px 0 0;'> <div class=''> <div class='top-line'></div><div class='box'><div class='text-inner'>A equipe Kivalita visita os sites da empresa e avalia todo o processo. Tiramos fotos das evidências e as colocamos em um relatório.</div></div></div><div class='block-arrow'><span>Fase 2</span></div></div><div class='timeline col-md-6 col-lg-3' style='margin-top: 24px; padding: 0 26px 0 0;'> <div class=''> <div class='top-line'></div><div class='box'><div class='text-inner'>A equipe Kivalita elabora um relatório de desenvolvimento.</div></div></div><div class='block-arrow'><span>Fase 3</span></div></div><div class='timeline col-md-6 col-lg-3' style='margin-top: 24px; padding: 0 26px 0 0;'> <div class=''> <div class='top-line'></div><div class='box'><div class='text-inner'>Reunião para apresentar os GAPs e como a Kivalita pode ajudar a resolvê-los.</div></div></div><div class='block-arrow'><span>Fase 4</span></div></div></section>",
+			"methodContent": "É realizado através de uma minuciosa avaliação dos processos com ferramentas da qualidade, onde documentos e informações obtidas são verificadas e posicionadas conforme a sua criticidade e impacto sobre o negócio e legislações vigentes.",
+			"advantageContent": "<p><b>Benefícios de se realizar um GAP Analysis com a Kivalita Consulting:</b></p><ul><li>Verificamos se os processos estão atendendo os padrões de qualidade e legislações pertinentes;</li><li>Verificamos ameaças e oportunidades de melhorias;</li><li>Auxiliamos no desenvolvimento de indicadores para decisões assertivas;</li><li>Avaliamos desperdícios, perdas, retrabalhos ou reprocessos;</li><li>Detectamos oportunidades para auxiliar no desempenho do processo e capacitação dos seus colaboradores;</li><li>Planejamos o projeto e suas etapas para garantir a melhoria contínua.</li></ul>",
+			"complement": "<div class='row' style='margin-top: 80px;'> <div class='col-md-12 col-lg-6 wraper-cta-right'> <img alt='life science - gap analysis' src='https://www.kivalitaconsulting.com/wp-content/uploads/2020/06/AdobeStock_296369467-2.jpeg'/> <a href='/orcamento' class='button-cta'>Solicite agora um Orçamento</a> </div><div class='col-md-12 col-lg-6 wrapper-content'> <h3 style='color: #444; font-weight: 500;'>Na área de Life Science, aplicamos GAP Analysis em:</h3> <ul style='margin-left: 24px;'> <li>Indústrias</li><li>Importadoras e distribuidoras</li><li>Fornecedores</li><li>Laboratórios</li></ul> <h3 style='color: #444; font-weight: 500; margin: 16px auto; text-align: center;'>Outros ramos de atividades que podemos aplicar o GAP Analysis:</h3> <ul style='margin-left: 24px;'> <li>Qualquer ramo de negócio que busque avaliar seus processos para o desenvolvimento de melhorias, além de mitigação de custos, riscos e retrabalhos.</li></ul> </div></div>"
+		},
+		"Sistema da Qualidade": {
+			"title": "Sistema da Qualidade",
+			"titleMetaDescription": "SISTEMA DA QUALIDADE",
+			"description": "Não importa o tamanho da empresa, a Kivalita Consulting adequa ou desenvolve o SGQ conforme as necessidades e a área de atuação da sua empresa.",
+			"content": "<section class='introduction-section'> <h3>SISTEMA DA QUALIDADE</h3> <h2>O que é um Sistema da Qualidade?</h2> <p> O Sistema de Gestão da Qualidade (SGQ) é um conjunto de elementos interligados, integrados na organização, que funciona como uma engrenagem para atender à Política da Qualidade e os objetivos da empresa, tornando visível nos produtos e serviços, e atendendo às expectativas dos clientes. </p></section><section class='row'> <div class='col-md-12 col-lg-6 wrapper-content'> <h2>Por que as empresas devem ter um Sistema da Qualidade?</h2> <p> Garantir a qualidade do portfólio é mais do que uma opção para as empresas. É uma necessidade! Isso porque, tanto a concorrência tornou-se mais forte, quanto o cliente ficou mais exigente em relação ao que compra. </p><p> É por isso que, quando se fala na qualidade de um produto ou serviço, o conceito envolve o cumprimento de determinados requisitos para que as características e o processo de produção ou de realização garantam a satisfação do consumidor. Nesse sentido, o Sistema de Gestão da Qualidade passou a ser fundamental na realidade das empresas de qualquer ramo. </p></div><div class='col-md-12 col-lg-6'> <div class='wraper-cta-right'> <img src='https://www.kivalitaconsulting.com/wp-content/uploads/2019/06/projetos-qualidade-img-2.jpg' alt='sistema da qualidade'/><a href='/orcamento' class='button-cta'>Solicite um Orçamento</a> </div></div></section><section class='row'> <div class='col-12 wrapper-content'> <h2>Mas o que é exatamente a Gestão da Qualidade?</h2> <p> Também definido pela sigla SGQ, o Sistema de Gestão da Qualidade é a estrutura organizacional responsável por gerir e garantir a qualidade do produto ou serviço, considerando os recursos necessários, os procedimentos operacionais e as atividades estabelecidas. </p><p> Para isso, as regras são documentadas e formalizadas no Manual da Qualidade, definindo qual é o modelo de gestão apropriado para a qualidade do produto ou serviço final. Em outras palavras, o SGQ orienta como uma atividade deve ser realizada, com quais recursos e sob responsabilidade de quem. </p><p> Leva em conta três aspectos: o Projeto, a Produção e o uso do Produto ou Serviço. </p></div></section><section class='introduction-section'> <h3>SISTEMA DA QUALIDADE</h3> <h2>Como a ISO 9001 pode te ajudar</h2></section><div class='row'> <div class='col-md-12 col-lg-6 wraper-cta-left'> <img src='https://www.kivalitaconsulting.com/wp-content/uploads/2020/03/Auditorias-1-1024x726-2.jpg' alt='sistema da qualidade'/><a href='/orcamento' class='button-cta'>Veja seus benefícios</a> </div><div class='col-md-12 col-lg-6 wrapper-content'> <p> A empresa que possui um SGQ (Sistema de Gestão da Qualidade) baseado na ISO 9001, transmite para seu cliente que: </p><ul> <li>Possui baixo índice de reclamações.</li><li>Possui maior foco no cliente.</li><li>Tem maior envolvimento de pessoas.</li><li>Realiza uma abordagem por processos e sistêmica.​</li><li>Possui uma melhoria contínua.</li></ul> </div></div><section class='introduction-section'> <h3>SISTEMA DA QUALIDADE</h3> <h2>Ramo de Atividade</h2></section><div class='row'> <div class='col-md-12 col-lg-6 wraper-cta-left'> <img src='https://www.kivalitaconsulting.com/wp-content/uploads/2019/09/sistema-da-qualidade-0909-2.png' alt='sistema da qualidade'/><a href='/orcamento' class='button-cta'>Solicite um Orçamento</a> </div><div class='col-md-12 col-lg-6 wrapper-content'> <ul> <li> Importadores e distribuidores de Medicamentos, Cosméticos e Sanitizantes; </li><li> Indústrias Farmacêuticas, Cosméticas, Alimentíciais e Sanitizantes; </li><li> Laboratórios de análises: Físico- Químicas, Microbiológicas ou ISO 17025; </li><li> Empresas que desejam ajustar o Sistema de Gestão da Qualidade para atender empresas farmacêuticas ou apenas manutenção dos procedimentos; </li></ul> <span class='text-note' >Nota: nossa expertise é também para empresas start-ups e multinacionais.</span > </div></div>",
+			"methodContent": "É realizado um diagnóstico do seu negócio através de um Gap Analysis, demonstrando o que precisa ser definido e melhorado, tornando o projeto enxuto e mitigando riscos de custos extras e retrabalhos.",
+			"advantageContent": "<p>Com um Sistema da Qualidade bem estruturado, seu negócio se desenvolverá em:</p><ul><li>Padronização do processo: processos previsíveis, repetíveis, reproduzíveis e robustos antes das atividades.</li><li>Controle de alterações: apesar das mudanças no quadro de funcionários, legislação e demanda, seus processos, produtos e serviços permanecerão com a qualidade consistente.</li><li>Indicadores de qualidade: custos de mitigação, retrabalho, baixo desempenho etc. para melhorias de processo.</li><li>Mitigação de risco: através da análise de risco periódica que somente um SGQ pode oferecer, é possível visualizar pontos cruciais para a tomada de decisões por líderes e investidores.</li></ul>"
+		},
+		"Continuous K": {
+			"title": "Continuous K",
+			"titleMetaDescription": "Continuous K",
+			"description": "Não importa o tamanho da empresa, a Kivalita Consulting adequa ou desenvolve o SGQ conforme as necessidades e a área de atuação da sua empresa.",
+			"content": "<div class='container'><div class='modal fade' id='continuousPlus' role='dialog'> <div class='modal-dialog'> <div class='modal-content'> <div class='modal-body'> <div role='main' id='continuous-k-plus-446f2b65e883c248f7e6'></div></div><div class='modal-footer'> <button type='button' class='btn btn-default' data-dismiss='modal'>Fechar</button></div></div></div></div><div class='container'> <div class='modal fade' id='continuous' role='dialog'> <div class='modal-dialog'> <div class='modal-content'> <div class='modal-body'> <div role='main' id='continuous-k-7194ecf2140fc243203f'></div></div><div class='modal-footer'> <button type='button' class='btn btn-default' data-dismiss='modal'>Fechar</button></div></div></div></div><section class='introduction-section'> <h3>Assessoria de Qualidade</h3> <h2>CONTINUOUS K</h2> <p> Uma assessoria para implementação de projetos, liderada por um especialista bilíngue, através de follow-ups periódicos, treinamentos e suporte, guiando a sua equipe à sua melhor versão, além de proporcionar otimizações no processo, promovendo o consequente crescimento continuo do seu negócio.</p></section> <div class='row'> <div class='col-md-12 col-lg-6 wrapper-content'> <h3> O que o Continuous K oferece?</h3> <ul style='font-size: 14.1px'> <li> Assessoria de qualidade e tecnologia e regulatória frente as demandas específicas conforme o ramo de negócio.</li><li>4-6 reuniões de acompanhamento durante o mês;</li><li>2 treinamentos mensais (até 2h por treinamento);</li><li>Suporte, e-mail, whats app em horário comercial; ​</li><li>Relatórios e dashboards semanais do projeto.</li><li>Assessoria para adequação a certificação (ISO/ONA)</li><li> Gerenciamento e planejamento das atividades via plataforma em tempo real (dos colaboradores da empresa);</li><li>Indicadores para tomada de decisão frente aos processos;</li><li>Manual do usuário (e-book);</li></ul> </div><div class='col-md-12 col-lg-6 wraper-cta-right'> <img src='https://www.kivalitaconsulting.com/wp-content/ContinuousK/Image1.png' alt='continuos k'/><a href='/orcamento' class='button-cta'>Solicite Orçamento</a></div></div><section class='introduction-section'> <h2>A quem se destina?</h2> <p> Indústrias, importadoras e distribuidoras do ramo farmacêutico, cosmético, saneantes, químicos, alimentício e mais.</p></section> <section class='row'> <div class='col-md-12 col-lg-6'> <div class='wraper-cta-right'> <img src='https://www.kivalitaconsulting.com/wp-content/ContinuousK/Image2.jpeg' alt='sistema da qualidade'/><a href='/orcamento' class='button-cta'>Solicite um Orçamento</a></div></div><div class='col-md-12 col-lg-6 wrapper-content'> <h2>Quem forma a equipe do Continuos K?</h2> <p> Uma equipe multidisciplinar, representado por um especialista bilingue que irá realizar follow-ups semanais com a equipe, dando assessoria necessária, promovendo a qualidade e a melhoria continuada na empresa.</p><p> Através de avaliações, consultas em legislações e treinamentos, a Kivalita Consulting dará o suporte necessário, considerando tecnologias aplicáveis ao processo, além de potencializar a equipe envolvida com treinamentos específicos, sendo eles técnicos ou comportamentais.</p></div><div class='col-12 wrapper-content' style='text-align: center;'> <h3> Este trabalho garante com que a empresa mantenha a melhoria continuada de qualidade.</h3> </div></section> <section class='introduction-section'> <h2>O que vai conter no guia do usuário Continuous K?</h2> </section> <section class='row'> <div class='col-md-12 col-lg-6 wrapper-content'> <h3>Material de apoio</h3> <ul> <li>Plataforma de follow-up (Microsoft teams, whatsapp e outras plataformas);</li><li>Como atualizar o status de tarefas;</li><li>Boas praticas de gestão de tempo aos envolvidos;</li><li>Como utilizar as plataformas criptografadas para upload de arquivos (Share Point®)</li><li>Formulários;</li><li>Acompanhamento do projeto;</li><li>Local dos arquivos e materiais de treinamentos disponibilizados (Share Point®);</li><li>Sucesso do cliente</li></ul> </div><div class='col-md-12 col-lg-6'> <div class='wraper-cta-left'> <img src='https://www.kivalitaconsulting.com/wp-content/ContinuousK/Image3.jpeg' alt='sistema da qualidade'/><a href='/orcamento' class='button-cta'>Solicite um Orçamento</a></div></div></section> <section class='introduction-section'> <h2>Qual a melhor opção para você?</h2> </section> <section class='row'> <div class='col-md-12 col-lg-6 wrapper-content'> <div style='border-radius: 20px; border: solid #134855 13px; margin: 10px; margin: 15px; padding: 10px; margin-bottom: 40px;'> <h2 style='text-align: center;'>Continuous K</h2> <h3>Solução de assessoria para o seu negócio:</h3> <ul> <li>4 Follow Ups de gestão e orientações mensais em SGQ/BPx ;</li><li>Assessoria de tecnologia (automação de processos);</li><li>Comunicação para suporte diário;</li><li>2 Treinamentos mensais;</li><li>Materiais de apoio;</li><li>Relatórios e dashboards;</li></ul> <h3>Pré-requisitos</h3> <p><span style='font-weight: 700;'>Equipe mínima: </span>2 pessoas dedicadas da Qualidade ou responsáveis por processos/projetos, com computador com pacote office e acesso à internet.</p><p><span style='font-weight: 700;'>Ramos de atividade: </span>Industrias, Importadoras e distribuidoras do ramo farmacêutico, cosmético, saneantes, químicos, alimentício e mais.</p><p><span style='font-weight: 700;'>Duração: </span>12 meses ou +</p><div class='wraper-cta-right' style='position: relative; bottom: -60px; text-align: center;'><a href='/orcamento' class='button-cta' data-toggle='modal' data-target='#continuous' style='background-color: #f4bf8c; text-align: center; position: initial;'>ADQUIRIR AGORA!</a></div></div></div><div class='col-md-12 col-lg-6 wrapper-content'> <div style='border-radius: 20px; border: solid #f4bf8c 13px; margin: 10px; margin: 15px; padding: 10px; margin-bottom: 40px;'> <h2 style='text-align: center;'>Continuous K Plus</h2> <h3>Solução de assessoria para o seu negócio:</h3> <ul style='font-size: 14.1px;'> <li>6 Follow Up de gestão e orientações mensais em SGQ/BPx;</li><li>Comunicação para suporte diário;</li><li>4 Treinamentos mensais;</li><li>Materiais de apoio;</li><li>Relatórios e dashboards;</li><li>Assessoria regulatória;</li><li>Assessoria de tecnologia (automação de processos);</li><li>Assessoria na Adequação a certificação (ISO/ONA/etc);</li></ul> <h3>Pré-requisitos</h3> <p><span style='font-weight: 700;'>Equipe mínima: </span>: 2 ou + pessoas por site, das áreas da qualidade ou envolvidas, com computador com pacote office e acesso a internet.</p><p><span style='font-weight: 700;'>Ramos de atividade: </span>Industrias, Importadoras e distribuidoras do ramo farmacêutico, cosmético, saneantes, químicos, alimentício e mais.</p><p><span style='font-weight: 700;'>Duração: </span>12 meses ou +</p><div class='wraper-cta-right' style='position: relative; bottom: -60px; text-align: center;'><a href='/orcamento' class='button-cta' data-toggle='modal' data-target='#continuous' style='background-color: #134855; text-align: center; position: initial;'>ADQUIRIR AGORA!</a></div></div></div></div></section>",
+			"methodContent": "<p style='font-weight: 700;'>Fase 1 - Gap Analysis (Recomendado)</p><p> Identifica-se os GAPs no processo para uma visão geral de quais ações tomar, considerando sua criticidade para ser solucionado a curto, médio ou longo prazo.</p><p style='font-weight: 700;'>Fase 2 - Continuous K</p><p> Seguindo a premissa de qualidade PDCA (Plan,Do,Check and Act), os trabalhos irão considerar:</p><p style='font-weight: 700;'> Follow Up</p><p> Reuniões semanais para estimular ações a serem concluídas, com planejamento de revisão e avaliação dos processos.</p><p style='font-weight: 700;'>Realização de ações</p><p> Processo de elaboração e realização das ações necessárias, com comunicação para eventuais dúvidas.</p><p style='font-weight: 700;'>Checagem</p><p> Nesta fase os relatórios são gerados em tempo real para possíveis ajustes e novas decisões.</p><p style='font-weight: 700;'>Multiplicação</p><p> Treinamentos e extensão de ações sobre os processos da empresa, desenvolvendo colaboradores do negócio, através da multiplicação do conhecimento adquirido com a Kivalita.</p>",
+			"advantageContent": "<ul><li>Solução Remota (follow-ups e treinamentos on-line);</li><li>Assessoria na condução de atividades e nas decisões sobre processos e pessoas para o sucesso do projeto;</li><li>Engajamento da equipe: Ações que promovem autonomia e reconhecimento dos colaboradores frente aos projetos;</li><li>Economia com mão de obra especializada: disponibilidade de uma equipe multidisciplinar, pelo custo de 1 colaborador;</li><li>Possibilidade de adequação a diferentes legislações e Certificações ISO;</li><li>Avaliação para automação de processos;</li><li>Foco sobre projetos estratégicos da empresa, auxiliando na viabilização e otimização de projetos que envolvam qualidade, regulatórios ou tecnologia;</li><li>Previsibilidade de atividades com visualização em plataforma exclusiva da Kivalita;</li><li>Relatórios semanais e dashboards de atividades realizadas por toda equipe envolvida.</li></ul>"
+		},
+		"Certificações ISO": {
+			"title": "Certificações ISO",
+			"titleMetaDescription": "Certificações ISO",
+			"description": "Sua empresa já possui certificação ou busca informações de como obtê-la? Clique aqui e saiba mais sobre Auditorias e Adequações a Certificações.",
+			"content": "<section class='introduction-section'>   <h3>Projeto de Adequações à Certificações ISO</h3>   <h2>Sua empresa está apta para uma Certificação?</h2>   <p>Quais Certificações são aplicáveis ao seu negócio? A Kivalita Consulting poderá auxiliá-lo neste processo em que,     através de uma auditoria, será analisada quais Certificações o seu negócio está apto a atender e o que falta para se     enquadrar.</p> </section> <section class='row'>   <div class='col-md-12 col-lg-6 wrapper-content'>     <h2>Consulte-nos!</h2>     <p>A KIVALITA CONSULTING reconhece que o Sistema de Gestão da Qualidade tornou-se fundamental na realidade das       empresas de qualquer setor.</p>     <p>E quando se trata da qualidade de um produto ou serviço, a KIVALITA CONSULTING compreende que as necessidades       atuais envolvem atender a determinados requisitos, de modo que as características e o processo de produção ou       realização garantam a satisfação do consumidor.</p>     <h2>Veja algumas Normas que a Kivalita Consulting realiza adequação na sua empresa:</h2>     <ul>       <li>ABNT ISO/NBR 9001:2015 <b>Qualidade</b></li>       <li>ISO 14001:2015 <b>Meio Ambiente</b></li>       <li>ISO 45001:2018 <b>Saúde e Segurança Ocupacional</b></li>       <li>ABNT ISO/IEC 17025:2005 <b>Laboratório e Calibrações</b></li><li>ISO/IEC 27001 ISMS <b>Information Security Management System</b></li></ul>   </div>   <div class='col-md-12 col-lg-6'>     <div class='wraper-cta-left'><img alt='certificações iso'         src='https://www.kivalitaconsulting.com/wp-content/uploads/2019/06/img-projeto-adequacao.jpg' /><a         href='/orcamento' class='button-cta'>Solicite um Orçamento</a></div>   </div> </section> <section class='introduction-section'>   <h3>Projeto de Adequações à Certificações ISO</h3>   <h2>Certificação ISO vale a pena?</h2> </section> <div class='row'>   <div class='col-md-12 col-lg-6 wrapper-content pt-4'>     <p>A empresa que possuí um SGQ (Sistema de Gestão da Qualidade) baseado na ISO 9001, transmite para seu cliente que:     </p>     <ul>       <li>Possui baixo índice de reclamações.</li>       <li>Possui maior foco no cliente.</li>       <li>Tem maior envolvimento de pessoas.</li>       <li>Realiza uma abordagem por processos e sistêmica.​</li>       <li>Possui melhoria contínua.</li>     </ul>   </div>   <div class='col-md-12 col-lg-6 wraper-cta-left'><img alt='iso 9001 - certificações iso'       src='https://www.kivalitaconsulting.com/wp-content/uploads/2020/03/Auditorias-1-1024x726-2.jpg' /><a       href='/orcamento' class='button-cta'>Veja seus benefícios</a></div> </div> <section class='introduction-section'>   <h3>Projeto de Adequações à Certificações ISO</h3>   <h2>Ramo de Atividade</h2> </section> <div class='row'>   <div class='col-md-12 col-lg-6 wraper-cta-right' style='margin-bottom: 20px;'><img alt='certificações iso'       src='https://www.kivalitaconsulting.com/wp-content/uploads/2019/06/img-projeto-adequacao2.jpg' /><a href='/orcamento'       class='button-cta'>Solicite um Orçamento</a></div>   <div class='col-md-12 col-lg-6 wrapper-content'>     <p>A Kivalita Consulting é expert nas empresas de Life Science, mas atende também qualquer negócio que busque       adequar a sua empresa às ISO's, pois temos uma equipe Multidisciplinar. Sendo assim, podemos atender:</p>     <ul>       <li>Qualquer ramo de negócio que busque atender uma Certificação;</li>       <li>Empresas que já possuem Certificação ISO ou precisem mantê-la.</li>       <li>Além de compartilhar nossa experiência com empresas maiores ou mais conhecidas, também nos especializamos em         novos empreendimentos ou start-ups.</li>     </ul>   </div> </div>",
+			"methodContent": "É realizado um diagnóstico do seu negócio através de um GAP Analysis, demonstrando o que precisa ser definido e melhorado para uma certificação ISO, tornando o projeto enxuto e mitigando riscos de custos extras e retrabalhos.",
+			"advantageContent": "<p>Com um sistema da qualidade bem estruturado, o seu negocio irá se desenvolver em:</p><ul><li>Padronização de processos: seus processos são previsíveis, repetíveis, reprodutíveis e robustos diante das atividades.</li><li>Certificação ISO: um diferencial para o consumidor exigente.</li><li>Controle de mudanças: mesmo com mudanças de funcionários/legislação/demanda, seus processos, produtos e serviços permanecerão com a mesma qualidade.</li><li>Indicadores da qualidade para melhorias de processos: mitigando custos, retrabalhos, baixo desempenho, etc.</li><li>Mitigação de riscos: através de análises de riscos periódicas que somente um SGQ pode oferecer é possível visualizar pontos que são cruciais para a tomada de decisão de líderes e investidores.</li></ul>"
+		},
+		"Tradução de Documentos Técnicos": {
+			"title": "Tradução de Documentos Técnicos",
+			"titleMetaDescription": "Tradução de Documentos Técnicos",
+			"description": "Buscando uma empresa que disponibilize tradução técnica de qualidade?",
+			"content": "<section class='introduction-section'>   <h3>DOCUMENTOS TÉCNICOS</h3>   <h2>Sua empresa está precisando traduzir documentos técnicos?</h2> </section> <section class='row'>   <div class='col-md-12 col-lg-5'>     <div class='wraper-cta-left'><img alt='tradução de documentos técnicos'         src='https://www.kivalitaconsulting.com/wp-content/uploads/2020/04/translating_technical_document_kivalita-1.jpg' />     </div>   </div>   <div class='col-md-12 col-lg-7 wrapper-content'>     <h2>Kivalita significa qualidade em Esperanto</h2>     <p>A Kivalita Consulting é especialista em empresas Life Science fornecendo soluções de qualidade em uma variedade       de campos.</p>     <p>Com nossa equipe multidisciplinar, também atendemos quaisquer negócios que buscam traduções técnicas.</p>   </div> </section> <section class='introduction-section'>   <h3>DOCUMENTOS TÉCNICOS</h3>   <h2>Ramo de Atividade</h2> </section> <div class='row'>   <div class='col-md-12 col-lg-6 wrapper-content pt-4'>     <h2>Realizamos Traduções de documentos técnicos para:</h2>     <ul>       <li>Protocolos de validação e qualificação;</li>       <li>Procedimentos e instruções de trabalho;</li>       <li>Manuais de equipamentos;</li>       <li>Dossiês de registro.</li>     </ul>   </div>   <div class='col-md-12 col-lg-6 wraper-cta-left'><img height='280px' alt='tradução de documentos técnicos'       src='https://www.kivalitaconsulting.com/wp-content/uploads/2019/06/documento-tecnico-img-2.jpg' /><a       href='/orcamento' class='button-cta'>Solicite um orçamento</a></div> </div> <div class='row'>   <div class='col-12 wrapper-content'>     <h2>Tipos de traduções que realizamos:</h2>   </div>   <div class='col-md-12 col-lg-6 wrapper-content'>     <h3>Tradução espelho</h3>     <p>A tradução é realizada de maneira fiel ao documento de origem, sem qualquer alteração.</p>   </div>   <div class='col-md-12 col-lg-6 wrapper-content'>     <h3>As traduções atualmente disponíveis são:</h3>     <ul>       <li>Inglês-Português</li>       <li>Português-Inglês</li>     </ul>   </div>   <div class='col-md-12 col-lg-6 wrapper-content'>     <h3>Tradução com revisão</h3>     <p>A tradução é realizada com a revisão da parte técnica do documento, tornando a compreensão do processo descrito       de forma clara e objetiva na língua desejada.</p>   </div>   <div class='col-md-12 col-lg-6 wrapper-content' style='align-items: flex-end;display: flex;'><span       class='text-note'>Nota: A Kivalita Consulting não endossa tradução juramentada.</span></div> </div>",
+			"methodContent": "A Kivalita Consulting possui uma equipe multidisciplinar de tradutores com experiência em tradução de documentos técnicos.",
+			"advantageContent": "<p>Benefícios da tradução de documentos técnicos feito por quem entende do assunto:</p><ul><li>A tradução de documentos técnicos não é apenas benéfica para o progresso inicial do trabalho quando em uma nova região, mas também é útil para a maioria dos departamentos que precisam entender os vários aspectos.</li><li>Cumprimento dos prazos de entrega e alta demanda sazonal.</li><li>Mesmos termos usados na tradução que fornecem adequação do mesmo tipo de vocabulário e termos técnicos usados na tradução sem comprometer significados ou processos.</li></ul>"
+		},
+		"Terceirização de Mão de Obra": {
+			"title": "Terceirização de Mão de Obra",
+			"titleMetaDescription": "Terceirização de Mão de Obra",
+			"description": "Conte com a Kivalita Consulting para obter mão de obra especializada, nos mais diversos cargos.",
+			"content": "<section class='introduction-section'> <h3>MÃO DE OBRA ESPECIALIZADA</h3> <h2>Sua empresa precisa de mão de obra especializada?</h2> <p>Quer uma modalidade onde a contratação não seja uma responsabilidade da empresa? A Kivalita Consulting poderá auxiliá-lo na aquisição.</p></section> <section class='row'> <div class='col-md-12 col-lg-6 wrapper-content'> <h2>Nós fornecemos profissionais especializados nas áreas de:</h2> <ul> <li>Controle de qualidade (para laboratório físico-químico e microbiológico);</li><li>Garantia da Qualidade;</li><li>Analistas de Validação;</li><li>Assuntos Regulatórios;</li><li>Profissionais qualificados para assumir Responsabilidade Técnica;</li><li>Desenvolvimento e Configuração de Softwares (Tecnologia).</li></ul> <p>Para todas as modalidades, podemos fornecer profissionais de assistentes até gerentes, com supervisão e treinamentos periódicos exclusivos da Kivalita.</p></div><div class='col-md-12 col-lg-6'> <div class='wraper-cta-left'><img alt='terceirização de mão de obra' src='https://www.kivalitaconsulting.com/wp-content/uploads/2019/06/mao-obra-img.jpg'/><a href='/orcamento' class='button-cta'>Solicite um orçamento</a></div></div></section> <section class='introduction-section'> <h3>MÃO DE OBRA ESPECIALIZADA</h3> <h2>Ramo de Atividade</h2> </section> <div class='row'> <div class='col-md-12 col-lg-6 wraper-cta-left'><img alt='terceirização de mão de obra' src='https://www.kivalitaconsulting.com/wp-content/uploads/2019/09/locacao-de-mao-de-obra-especializada.jpeg'/><a href='/orcamento' class='button-cta'>Solicite um orçamento</a></div><div class='col-md-12 col-lg-6 wrapper-content pt-4'> <ul> <li>Importadores e Distribuidores de Medicamentos, Cosméticos e Sanitizantes</li><li>Indústrias Farmacêuticas, Cosméticas, Alimentícias e Sanitizante;</li><li>Laboratórios de Análises: Físico-Químicas, Microbiológicas ou ISO 17025.</li></ul> <span class='text-note'>Nota: além de compartilhar nossa experiência com empresas maiores ou mais conhecidas, também somos especialistas em novos empreendimentos ou Start-ups.</span> </div></div>",
+			"methodContent": "São avaliadas as atividades que o cliente tem para mensurar a quantidade e especialização de mão de obra.",
+			"advantageContent": "<p>Benefícios da terceirização de Mão de Obra com a Kivalita Consulting:</p><ul><li>Responsabilidade de direitos trabalhistas diretamente com a Kivalita;</li><li>Treinamentos periódicos e atualização de atuação de área para todos os colaboradores Kivalita;</li><li>Mão de obra com ou sem a supervisão direta da Kivalita;</li><li>Mudança de colaborador em um período acordado sem custos adicionais;</li><li>Recolocação de um outro colaborador em período de licença;</li><li>Contratos com período pré-determinado (mais vantajoso para atender às demandas extras ou sazonais da empresa).</li></ul>"
+		},
+		"Projetos Laboratoriais e LTA": {
+			"title": "Projetos Laboratoriais e LTA",
+			"titleMetaDescription": "Projetos Laboratoriais e LTA",
+			"description": "Desenvolvemos o seu projeto laboratorial ou industrial desde o “zero”, contando com uma equipe multidisciplinar que realmente entende do assunto.",
+			"content": "<section class='introduction-section'>   <h3>PROJETOS LABORATORIAIS E/OU LTA</h3>   <h2>Somos especializados em desenvolver laboratórios</h2>   <p> Um aspecto importante da criação de um laboratório é o grande número de decisões que precisam ser tomadas de     maneira rápida e constante. Do local aos primeiros projetos, aos primeiros membros do laboratório e às primeiras     grandes compras, tudo isso pode ser extremamente esmagador. A <b>Kivalita Consulting</b> tem experiência em     primeira mão no desenvolvimento de laboratórios​. </p> </section> <section class='row'>   <div class='col-md-12 col-lg-6 wrapper-content pt-5'>     <center>A Kivalita Consulting oferece uma equipe multidisciplinar para o desenvolvimento do projeto, com uma       variedade distinta de Farmacêuticos, Químicos e Biólogos trabalhando na área, além de Engenheiros e Arquitetos.     </center><br /> Como especialistas, sabemos como desenvolver um laboratório do zero com as medidas necessárias do     projeto: <ul>       <li>Número de equipamentos necessários.</li>       <li>Procedimentos em conformidade com a legislação.</li>       <li>Mão de obra especializada para contratação imediata.</li>       <li>Tudo que um laboratório precisa, de maneira enxuta.</li>     </ul>   </div>   <div class='col-md-12 col-lg-6'>     <div class='wraper-cta-left'> <img alt='projetos laboratoriais'         src='https://www.kivalitaconsulting.com/wp-content/uploads/2019/08/img-1.png' /><a href='/orcamento'         class='button-cta'>Solicite um orçamento</a> </div>   </div> </section> <section class='introduction-section'>   <h3>PROJETOS LABORATORIAIS E/OU LTA</h3>   <h2>Projetos Laboratoriais</h2> </section> <div class='row'>   <div class='col-md-12 col-lg-6 wraper-cta-left'> <img alt='projetos laboratoriais'       src='https://www.kivalitaconsulting.com/wp-content/uploads/2019/09/laboratorio-0909.jpeg' /><a href='/orcamento'       class='button-cta'>Solicite um orçamento</a> </div>   <div class='col-md-12 col-lg-6 wrapper-content pt-2'>     <h3 class='text-center'>Projetos de Destaque</h3>     <p class='text-center'>Entendemos que o lançamento do seu próprio laboratório marca o início de uma nova e       emocionante fase de sua carreira.</p>     <h3>Empresas que precisam ter um laboratório:</h3>     <ul>       <li> Importadores de Medicamentos, Cosméticos e Sanitizantes.</li>       <li>Indústrias Farmacêuticas, Cosméticas, Alimentícias e Sanitizante.</li>       <li> Laboratórios de Análises: Físico-Químicas, Microbiológicas ou ISO 17025. </li>       <li> Empresas que queiram adequar o SGQ para Empresas Farmacêuticas ou Manutenção. </li>     </ul>     <h3>Laboratório específico:</h3>     <ul>       <li>Laboratório de Ánalises Físico-Químicas.</li>       <li>Laboratório de Ánalises Microbiológicas.</li>       <li>Laboratório com Classificação de Área Limpa.</li>     </ul> <span class='text-note'>Nota: Compartilhamos orgulhosamente nossa experiência com empresas de qualquer tamanho       e de qualquer idade, incluindo empresas iniciantes.</span>   </div> </div> <section class='introduction-section'>   <h3>PROJETOS LABORATORIAIS E/OU LTA</h3>   <h2>LTA Laudo Técnico de Avaliação</h2>   <p> Nossa dedicação à melhoria e ao cumprimento dos objetivos de nossos clientes nos tornaram especialistas nessa     experiência. </p> </section> <div class='row'>   <div class='col-md-12 col-lg-6 wrapper-content pt-2'>     <h2>O que é um LTA?</h2>     <p> O LTA, Laudo Técnico de Avaliação é o primeiro passo a ser dado na obtenção da<b> Licença Sanitária</b>. É       um processo que descreve, por meio de projetos arquitetônicos, relatórios e memoriais, as atividades que serão       desenvolvidas nos prédios.       <p /> O processo será analisado pela<b> Vigilância Sanitária</b> e, uma vez aprovado, permitirá a empresa       continuar o processo de Licença Sanitária.</div>   <div class='col-md-12 col-lg-6 wraper-cta-left'> <img alt='LTA - projetos laboratoriais'       src='https://www.kivalitaconsulting.com/wp-content/uploads/2019/08/pg49.png' /><a href='/orcamento'       class='button-cta'>Solicite um orçamento</a> </div> </div> <section class='row'>   <div class='col-12 wrapper-content'>     <h2>Quando o LTA é apresentado?</h2>     <p>No registro inicial da empresa e sempre que houver alterações na ampliação ou adaptação do estabelecimento.</p>   </div> </section> <section class='row'>   <div class='col-12 wrapper-content'>     <h2>Quem precisa do LTA?</h2>     <p> Qualquer empresa que precise de uma atualização do LTA em relação à prefeitura e à Vigilância Sanitária ou mesmo       ao desenvolvimento de uma do zero, nos seguintes campos de atividade: </p>     <ul>       <li>Fabricação, Distribuição, Fracionamento e Embalagem.</li>       <li>Transporte e armazenamento de produtos relacionados à saúde.</li>       <li> Cosméticos, produtos saneantes, produtos para a saúde, produtos de higiene e medicamentos.</li>       <li> Para o setor de alimentos, apenas a indústria (apenas para atividades de fabricação).</li>       <li> Outras áreas que precisam desse processo são prestadores de serviços de saúde, como clínicas, hospitais,         clínicas especializadas, asilos, lavanderias hospitalares, laboratórios, contrapartes.</li>     </ul>   </div> </section>",
+			"methodContent": "É feita uma visita no local para avaliar os processos e fluxos operacionais, e descrevê-los em compliance.",
+			"advantageContent": "<p>A Kivalita Consulting oferece como diferencial uma equipe multidisciplinar para o desenvolvimento do projeto LTA, contando com farmacêuticos, químicos e biólogos que atuam na área, além de engenheiros e arquitetos.</p><p>Por ser uma equipe multidisciplinar, o projeto mitiga problemas de:</p><ul><li>Falhas na avaliação dos fluxos e processos;</li><li>Custos elevados de adequações operacionais por exigências dos órgãos sanitários.</li></ul>"
+		},
+		"Validações": {
+			"title": "Validações",
+			"titleMetaDescription": "Validações",
+			"description": "Conte com a Kivalita Consulting para a realização das validações que sua empresa precisa.",
+			"content": "<section class='introduction-section'> <h3>VALIDAÇÕES</h3> <h2>Sua empresa está precisando de validações?</h2> <p> <center> É a visão da Kivalita Consulting, que não importa quão grande ou pequeno é um negócio... As melhorias levam ao sucesso e, eventualmente, a um mundo melhor.<br/> Mantendo nossas declarações em primeiro plano, temos uma infinidade de serviços e profissionais de diversas origens para atender às diferentes necessidades. </center> </p></section> <section class='row'> <div class='col-md-12 col-lg-6 wrapper-content pt-5'> <h2> Nos orgulhamos de realizar validações nos mais diversos segmentos </h2> <ul> <li>Validações de Metodologias Analíticas;</li><li>Validações de Limpeza;</li><li>Validações de Processos;</li><li>Validações de Sistemas.</li></ul> </div><div class='col-md-12 col-lg-6'> <div class='wraper-cta-left'> <img alt='validações' src='https://www.kivalitaconsulting.com/wp-content/uploads/2019/06/validacoes-img-1.jpg'/><a href='/orcamento' class='button-cta'>Solicite um orçamento</a> </div></div></section> <section class='introduction-section'> <h3>VALIDAÇÕES</h3> <h2>Somos Especialistas em Validações de Sistemas</h2> </section> <section class='new-row row'> <div class='col-md-12 col-lg-6'> <div class='wraper-cta-left'> <img alt='validações' src='https://www.kivalitaconsulting.com/wp-content/b2finance.jpg'/> </div></div><div class='col-md-12 col-lg-6 wrapper-content pt-5'> <p> <center> Parceiros oficiais de validação do SAP One Business <br/> Você pode contar com os profissionais mais qualificados para realizar a validação do ERP mais completo do mercado! <br/> </center> </p></div><div class='col-md-12 col-lg-6'> <div class='wraper-cta-left'> <img alt='validações' src='https://www.kivalitaconsulting.com/wp-content/docnix.png'/> </div></div><div class='col-md-12 col-lg-6 wrapper-content' style='padding-top: 6rem!important;'> <p> <center>Parceiros exclusivos de São Paulo de validação dos softwares da Docnix. <br/> Um dos melhores softwares para auxiliar e transformar a gestão da qualidade da sua empresa, agora também validado oficialmente pela Kivalita! </center> </p></div><div class='wrapper-content'> <p> <center> Nós somos uma consultoria que se preocupa em trazer as melhores soluções para gerar uma transformação digital de dentro para fora no seu negócio, e sempre utilizando dos métodos, legislações e guias mais atualizados! <br/> Fale com um de nossos consultores para saber mais detalhes. <br/> </center> </p></div></section> <section class='introduction-section'> <h3>VALIDAÇÕES</h3> <h2>Ramo de Atividade</h2> <p> Nossa experiência também é para startups, multinacionais e/ou importadores.<br/> Fornecemos serviços de validação para qualquer empresa que precise de uma validação segura, como: </p></section> <div class='row'> <div class='col-md-12 col-lg-6 wraper-cta-left'> <img alt='validações' src='https://www.kivalitaconsulting.com/wp-content/uploads/2019/09/validacoes-09-09.jpg'/><a href='/orcamento' class='button-cta'>Solicite um orçamento</a> </div><div class='col-md-12 col-lg-6 wrapper-content'> <h2>Na área de Life Science</h2> <ul> <li>Industriais</li><li>Importadoras e distribuidoras</li><li>Fornecedores</li><li>Laboratórios</li></ul> <h2>Na área de Life Science</h2> <ul> <li> Qualquer ramo de negócio que busque validar seus processos para avaliação de resultados, mitigar riscos e custos; </li><li> Qualquer ramo de negócio que busque validar seus sistemas para saber se o mesmo possui integridade de dados, controle de acesso, backup e restore, entre outras confirmações. </li></ul> </div></div>",
+			"methodContent": "Um diagnóstico rigoroso do seu negócio é realizado através de um GAP Analysis. O processo demonstra o que precisa ser definido e aprimorado para uma validação, tornando o projeto enxuto e minimizando os riscos de custos extras e retrabalho.",
+			"advantageContent": "<p>Benefícios da mão-de-obra terceirizada para realizar as validações de tarefas com a Kivalita Consulting:</p><ul><li>Validação realizada com uma equipe multidisciplinar;</li><li>Profissionais especializados e dedicados a realizar sua validação e promover sua melhoria;</li><li>Agilidade e rapidez na execução de tarefas;</li><li>Melhor opção para prazos de entrega e atendimento aos requisitos regulamentares.</li></ul>"
+		},
+		"Qualificação de Fornecedores": {
+			"title": "Qualificação de Fornecedores",
+			"titleMetaDescription": "Qualificação de Fornecedores",
+			"description": "Buscando uma equipe que realize auditorias ou qualifique seus fornecedores?",
+			"content": "<section class='introduction-section'>   <h3>FORNECEDORES</h3>   <h2>Sua equipe não é suficiente para auditar todos os seus fornecedores?</h2>   <p>A Kivalita Consulting fornece a qualificação de fornecedores que sua empresa precisa.</p> </section> <section class='row'>   <div class='col-md-12 col-lg-6 wrapper-content'>     <h2>Dentro dos segmento de:</h2>     <ul>       <li>Matérias-primas;</li>       <li>Serviços terceirizados;</li>       <li>Produtos para embalagem <b>Primaria ou Secundária;</b></li>       <li>EPIs/EPCs;</li>       <li>Padrões;</li>       <li>Entre outros segmentos.</li>     </ul>   </div>   <div class='col-md-12 col-lg-6'>     <div class='wraper-cta-left'><img alt='qualificação de fornecedores'         src='https://www.kivalitaconsulting.com/wp-content/uploads/2019/06/fornecedores-img-1.jpg' /><a href='/orcamento'         class='button-cta'>Solicite um orçamento</a></div>   </div> </section> <section class='introduction-section'>   <h3>FORNECEDORES</h3>   <h2>Ramo de Atividade</h2>   <p>Qualquer negócio que necessite de qualificações de <br /> fornecedores (seguindo ou não uma ISO), sendo:</p> </section> <div class='row'>   <div class='col-md-12 col-lg-6 wraper-cta-left'><img alt='life science - qualificação de fornecedores'       src='https://www.kivalitaconsulting.com/wp-content/uploads/2019/09/qualificacao-de-fornecedores-pg61-09-09.png' /><a       href='/orcamento' class='button-cta'>Solicite um orçamento</a></div>   <div class='col-md-12 col-lg-6 wrapper-content'>     <h2>Na área de Life Science</h2>     <ul>       <li>Indústrias;</li>       <li>Importadoras e distribuidoras;</li>       <li>Fornecedores;</li>       <li>Laboratórios.</li>     </ul>     <h2>Outros ramos de atividades</h2>     <ul>       <li>Matéria-prima;</li>       <li>Embalagens;</li>       <li>Serviços terceirizados;</li>       <li>Entre outros segmentos.</li>     </ul>     <p>Consulte-nos! Preços especiais para empresas que buscam auditar seus fornecedores continuamente, garantindo a       qualidade assegurada de seus fornecedores e evitando gastos com auditorias pontuais.</p>   </div> </div>",
+			"methodContent": "São fornecidos auditores para a realização de qualificação, conforme a especificidade de cada fornecedor, legislação ou normativa ISO.",
+			"advantageContent": "<ul><li>Disponibilização de variabilidade de mão de obra especializada para a realização de qualificação de fornecedores conforme o tipo de fornecedor e legislação a ser seguida (ISO);</li><li>Atendimento para a realização de qualificações em nível nacional e internacional de auditorias;</li><li>Possibilidade de realização de várias auditorias em um curto espaço de tempo para atendimento de cronogramas de qualificação.</li></ul>"
+		},
+		"Treinamentos": {
+			"title": "Treinamentos",
+			"titleMetaDescription": "Treinamentos",
+			"description": "Conte com a Kivalita Consulting para a realização dos treinamentos que sua empresa precisa.",
+			"content": "<section class='introduction-section'>   <h3>Treinamentos Remotos e In Company</h3>   <h2>Sua empresa precisa capacitar a equipe?</h2> </section> <section class='row'>   <div class='col-md-12 col-lg-6 wrapper-content'>     <h2>Realizamos treinamentos 'In Company' e treinamentos remotos, tais como:</h2>     <ul>       <li>Validação de método analítico, processo, limpeza e sistemas;</li>       <li>Garantia da Qualidade (diversos assuntos como qualificação de fornecedores, qualificação de equipamentos,         análise de riscos, etc.);</li> <li>Treinamentos personalizados conforme os procedimentos internos da empresa ou legislações atuais (desenvolvemos         o treinamento conforme as necessidades de cada negócio).</li>     </ul>   </div>   <div class='col-md-12 col-lg-6'>     <div class='wraper-cta-left'><img alt='treinamentos'         src='https://www.kivalitaconsulting.com/wp-content/uploads/2019/06/img-in-company.jpg' /><a href='/orcamento'         class='button-cta'>Solicite um orçamento</a></div>   </div> </section> <section class='introduction-section'>   <h3>Treinamentos Remotos e In Company</h3>   <h2>Ramo de Atividade</h2> </section> <div class='row'>   <div class='col-md-12 col-lg-6 wraper-cta-left'><img alt='life science - treinamentos'       src='https://www.kivalitaconsulting.com/wp-content/uploads/2019/08/pg67.png' /><a href='/orcamento'       class='button-cta'>Solicite um orçamento</a></div>   <div class='col-md-12 col-lg-6 wrapper-content'>     <h2>Na área de Life Science</h2>     <ul>       <li>Indústrias;</li>       <li>Importadoras e distribuidoras;</li>       <li>Fornecedores;</li>       <li>Laboratórios.</li>     </ul>     <h2>Outros ramos de atividades</h2>     <ul>       <li>Matéria-prima;</li>       <li>Embalagens;</li>       <li>Serviços terceirizados;</li>       <li>Entre outros segmentos.</li>     </ul>     <p>Consulte-nos! Preços especiais para empresas que buscam auditar seus fornecedores continuamente, garantindo a       qualidade assegurada de seus fornecedores e evitando gastos com auditorias pontuais.</p>   </div> </div>",
+			"methodContent": "A Kivalita Consulting conta com uma equipe multidisciplinar, disponibilizados conforme a sua expertise para a realização dos treinamentos.",
+			"advantageContent": "<ul><li>Atualização periódica dos colaboradores, sem precisar sair da empresa;</li><li>Obtenção de certificados conforme o treinamento oferecido;</li><li>Realização de treinamento por profissionais que entendem do assunto.</li></ul>"
+		},
+		"Softwares Siemens": {
+			"title": "Softwares Siemens",
+			"titleMetaDescription": "Softwares Siemens",
+			"description": "A Kivalita Consulting é Official Partner da Siemens! Consulte-nos para conhecer as melhores soluções em softwares para o seu negócio.",
+			"content": "<section class='introduction-section'>  <h3>SOFTWARES SIEMENS</h3>  <h2>Soluções em tecnologia para oferecer ainda mais qualidade e agilidade aos seus processos.</h2></section><section class='row'>  <div class='col-md-12 col-lg-6 wrapper-content'>    <h2>A Kivalita Consulting é parceira oficial da Siemens, representando-os nos mais robustos softwares que a sua      empresa precisa:</h2>    <ul>      <li><b>COMOS</b> - Documentation Management</li>      <li><b>XHQ</b> - Operations Intelligence Software</li>      <li><b>LIMS</b> - Laboratory Information Managemant Systems</li>      <li><b>MES</b> - Manufacturing Execution System – Sistema Paperless (Indústria 4.0)​</li>    </ul>    <p>A Kivalita Consulting realiza todo o atendimento que a sua empresa precisar para cada software, além da validação      e manutenção destes sistemas.</p>  </div>  <div class='col-md-12 col-lg-6'>    <div class='wraper-cta-left'><img alt='softwares siemens'        src='https://www.kivalitaconsulting.com/wp-content/uploads/2019/09/imgvideosiemens.jpg' /><a href='/orcamento'        class='button-cta'>Solicite um orçamento</a></div>  </div></section>",
+			"methodContent": null,
+			"advantageContent": null
+		},
+		"Auditoria": {
+			"title": "Auditoria",
+			"titleMetaDescription": "Procurando por auditorias para qualificar seus fornecedores ou avaliar a sua empresa?",
+			"description": "Procurando por auditorias para qualificar seus fornecedores ou avaliar a sua empresa?",
+			"content": "<section class='introduction-section'> <h3>Regulatory Affairs</h3> <h2>Be 100% in Compliance and promote a transformation in your processes is one of your challenges?</h2></section><div class='row'> <div class='col-md-12 col-lg-6 wrapper-content'> <p>We work to adapt your company in the most complex legislations, being the main demand today:</p><p style='font-weight: bold;'>Technology</p><ul> <li>RDC 301/2019 X AUGUST 2019 IN 43/47;</li><li>Guide 33 validation of computerized systems of Anvisa;</li><li>ISPE GAMP 5;</li><li>MHRA;</li><li>FDA - Food and drug administration - CRF 21 PART 210,211, 11 General principles of software validation guide, January 2002;</li><li>LGPD - General data protection law;</li></ul> <p style='font-weight: bold;'>Licenses</p><ul> <li>Pharmaceutical, cosmetic, sanitising, veterinary, chemical and food products;</li></ul> </div><div class='col-md-12 col-lg-6 wraper-cta-right'><img src='https://www.kivalitaconsulting.com/wp-content/regulatorios-1.png'/></div></div><section class='introduction-section'> <h3>Regulatory Affairs</h3> <h2>The adjustments is customized for each company and according to each legislation</h2></section><div class='row'> <div class='col-md-12 col-lg-3'> <div class='hexagon'> <div class='hexagonInner'> <span style='font-size: 15px;'></span>Step 1</span> </br> </br> <span style='font-weight: bold; font-size: larger;'>Gap Analysis</span> </div></div></div><div class='col-md-12 col-lg-3'> <div class='hexagon'> <div class='hexagonInner'> <span style='font-size: 15px;'>Step 2</span> </br> </br> <span style='font-weight: bold; font-size: larger;'>Planning</span> </div></div></div><div class='col-md-12 col-lg-3'> <div class='hexagon'> <div class='hexagonInner'> <span style='font-size: 15px;'>Step 3</span> </br> </br> <span style='font-weight: bold; font-size: larger;'>Applying</span> </div></div></div><div class='col-md-12 col-lg-3'> <div class='hexagon'> <div class='hexagonInner'> <span style='font-size: 15px;'>Step 4</span> </br> </br> <span style='font-weight: bold; font-size: larger;'>Monitoring</span> </div></div></div></div><div class='row'> <div class='col-md-12 col-lg-12 wrapper-content' style='margin: 60px;'> <ul> <li><b>Step 1</b> - Detect all gaps necessary to be corrected according to the necessary suitability;</li><li><b>Step 2</b> - Planning for correction of gaps;</li><li><b>Step 3</b> - Application of necessary training and corrections (Internal and external);</li><li><b>Step 4</b> - Always keep in Compliance;</li></ul> </div></div><section class='introduction-section'> <h3>Regulatory Affairs</h3> <h2>Which Areas do We Serve</h2></section><div class='row'> <div class='col-md-12 col-lg-6 wraper-cta-left'><img src='https://www.kivalitaconsulting.com/wp-content/regulatorios-2.png'/></div><div class='col-md-12 col-lg-6 wrapper-content'> <p>We can help all companies in the Life Science area with unique professionals for each type of business:</p><ul> <li>Pharmaceutical;</li><li>Veterinary;</li><li>Chemical;</li><li>Sanitizing;</li><li>Food;</li><li>Cosmetic;</li><li>Homeopathic;</li><li>Other;</li></ul> </div></div>",
+			"methodContent": null,
+			"advantageContent": null
+		},
+		"Assuntos Regulatórios": {
+			"title": "Assuntos Regulatórios",
+			"titleMetaDescription": "ASSUNTOS REGULATÓRIOS",
+			"description": "Atuamos para adequar a sua empresa nas mais  complexas legislações, sendo as de principais procura hoje.",
+			"content": "<section class='introduction-section'> <h3>Assuntos Regulatórios</h3> <h2>Estar 100% em Compliance e promover uma transformação nos seus processos é um dos seus desafios?</h2> </section> <div class='row'> <div class='col-md-12 col-lg-6 wrapper-content'> <p>Atuamos para adequar a sua empresa nas mais complexas legislações, sendo as de principais procura hoje:</p><p style='font-weight: bold;'>Tecnologia</p><ul> <li>RDC 301/2019 X DE AGOSTO 2019 IN 43/47;</li><li>Guia 33 validação de sistemas computadorizados da Anvisa;</li><li>ISPE GAMP 5;</li><li>MHRA;</li><li>FDA – Food and drug administration - CRF 21 PARTE 210,211, 11 General principles of softwares validation guide, January 2002;</li><li>LGPD – Lei geral de proteção de dados;</li></ul> <p style='font-weight: bold;'>Licenças</p><ul> <li>Produtos de origem Farmacêutica, cosmética, saneante, veterinária, química e alimentícia;</li></ul> </div><div class='col-md-12 col-lg-6 wraper-cta-right'><img alt='assuntos regulatórios' src='https://www.kivalitaconsulting.com/wp-content/regulatorios-1.png'/></div></div><section class='introduction-section'> <h3>Assuntos Regulatórios</h3> <h2>As adequações são costumizadas para cada empresa e de acordo com cada legislação</h2> </section> <div class='row'> <div class='col-md-12 col-lg-3'> <div class='hexagon'> <div class='hexagonInner'> <span style='font-size: 15px;'></span>Etapa 1</span> </br> </br> <span style='font-weight: bold; font-size: larger;'>Gap Analysis</span> </div></div></div><div class='col-md-12 col-lg-3'> <div class='hexagon'> <div class='hexagonInner'> <span style='font-size: 15px;'>Etapa 2</span> </br> </br> <span style='font-weight: bold; font-size: larger;'>Planejamento</span> </div></div></div><div class='col-md-12 col-lg-3'> <div class='hexagon'> <div class='hexagonInner'> <span style='font-size: 15px;'>Etapa 3</span> </br> </br> <span style='font-weight: bold; font-size: larger;'>Aplicação</span> </div></div></div><div class='col-md-12 col-lg-3'> <div class='hexagon'> <div class='hexagonInner'> <span style='font-size: 15px;'>Etapa 4</span> </br> </br> <span style='font-weight: bold; font-size: larger;'>Monitoramento</span> </div></div></div></div><div class='row'> <div class='col-md-12 col-lg-12 wrapper-content' style='margin: 60px;'> <ul> <li><b>Etapa 1</b> - Detectar todos os gaps necessários para serem corrigidos de acordo com a adequação necessárias;</li><li><b>Etapa 2</b> - Planejamento para correção dos gaps;</li><li><b>Etapa 3</b> - Aplicação de treinamentos e correções necessárias (Internas e externas);</li><li><b>Etapa 4</b> - Manter sempre em Compliance;</li></ul> </div></div><section class='introduction-section'> <h3>Assuntos Regulatórios</h3> <h2>Quais Áreas Atendemos</h2> </section> <div class='row'> <div class='col-md-12 col-lg-6 wraper-cta-left'><img alt='assuntos regulatórios' src='https://www.kivalitaconsulting.com/wp-content/regulatorios-2.png'/></div><div class='col-md-12 col-lg-6 wrapper-content'> <p>Nós podemos ajudar todas as empresas da área de Life Science com profissionais exclusivos para cada tipo de negócio:</p><ul> <li>Farmacêuticos;</li><li>Veterinários</li><li>Saneantes;</li><li>Alimentícia;</li><li>Cosmética;</li><li>Homeopáticas;</li><li>Outras;</li></ul> </div></div>",
+			"methodContent": null,
+			"advantageContent": null
+		}
+	},
+	"expertise": {
+		"breadCrumb": {
+			"name": "Áreas de atuação"
+		}
+	},
+	"about": {
+		"breadCrumb": {
+			"name": "Quem Somos"
+		},
+		"vision": "https://www.kivalitaconsulting.com/wp-content/aboutUs/Vision PT_1200x1200.png",
+		"mission": "https://www.kivalitaconsulting.com/wp-content/aboutUs/Value PT_1200x1200.png",
+		"purpose": "https://www.kivalitaconsulting.com/wp-content/aboutUs/Mission PT_1200x1200.png",
+		"two": {
+			"video": "https://www.youtube.com/embed/MeVid9oLJLU",
+			"part1": "Explorando soluções em desenvolvimento, qualidade e tecnologia para o seu negócio?",
+			"part2": "A Kivalita Consulting é uma consultoria exclusiva, que fornece soluções que atendem rapidamente aos mais altos requisitos regulatórios e de mercado. ",
+			"part3": "Somos uma empresa de consultoria em qualidade, especializada em soluções de negócios com uma equipe multidisciplinar nas áreas de farmácia, química, engenharia, arquitetura, TI, meio ambiente e muitas outras. Levamos a qualidade que sua empresa merece!",
+			"list": {
+				"title": {
+					"goal": "OBJETIVO",
+					"vision": "VISÃO",
+					"mission": "MISSÃO"
+				},
+				"description": {
+					"goal": "EMPODERAR qualidade de vida.",
+					"vision": "Não importa o quão grande ou pequena é a empresa... A MELHORIA lidera para o sucesso e eventualmente para um mundo melhor.",
+					"mission": "Maximizar o VALOR e o POTENCIAL das pessoas e empresas, garantindo excelência em consultoria da qualidade, treinamentos e projetos."
+				}
+			},
+			"button": "Solicite um orçamento"
+		},
+		"three": {
+			"title": "KIVALITA CONSULTING",
+			"subTitle": "Nosso trabalho",
+			"description": "Consultores com elevado conhecimento técnico e grande experiência prática adquirida ao longo de diversos projetos. Nosso trabalho é pautado em garantir a excelência no atendimento aos clientes, usando ferramentas éticas e comprometimento."
+		},
+		"four": {
+			"title": "KIVALITA CONSULTING",
+			"subTitle": "Institucional",
+			"button1": "Versão em Inglês",
+			"button2": "Versão em Português"
+		},
+		"five": {
+			"title": "KIVALITA CONSULTING",
+			"subTitle": "Encontre-nos aqui"
+		}
+	},
+	"banner": {
+		"budget": "Orçamento",
+		"about": "Quem somos",
+		"legislation": "Legislações",
+		"jobs": "Carreira",
+		"contact": "Contato",
+		"article": "Artigos",
+		"solution": "Soluções",
+		"news": "Notícias"
+	},
+	"footer": {
+		"contact": "Contato",
+		"address": "Endereço",
+		"button": "Voltar ao topo"
+	},
+	"form": {
+		"titleDownloadGap": "Baixar Gap Analysis",
+		"titleLegislation": "Informe os seguintes dados para começar o download.",
+		"Nome Completo": "Nome Completo",
+		"Nome": "Nome",
+		"Cargo / Profissão": "Cargo / Profissão",
+		"Email": "Email",
+		"E-mail": "Email",
+		"interesting": "Em quais vagas está interessado?",
+		"otherLang": "Fala outra língua?",
+		"no": "Não",
+		"yes": "Sim",
+		"uploadResume": "Faça upload do seu currículo:",
+		"upload": "Selecionar arquivo",
+		"submit": "Enviar",
+		"vehicle": "Possui veículo próprio?",
+		"travel": "Disponibilidade para viagens?",
+		"skills": "Sobre você! Descreva abaixo suas principais aptidões, conquistas, desafios e pretensões:",
+		"Administração": "Administração",
+		"Analista de Controle da Qualidade": "Analista de Controle de Qualidade",
+		"Analista da Garantia da Qualidade": "Analista da Garantia da Qualidade",
+		"Projetista - Arquitetura AutoCAD": "Projetista - Arquitetura AutoCAD",
+		"Ministrante de Cursos": "Ministrante de cursos",
+		"Comercial": "Comercial",
+		"Serviços Gerais/Limpeza": "Serviços gerais/Limpeza",
+		"Supervisão/Gestão": "Supervisão/Gestão",
+		"Recepção/Atendimento": "Recepção/Atendimento",
+		"Outro": "Outro",
+		"Empresa": "Empresa",
+		"Endereço da Empresa": "Endereço da Empresa",
+		"Cidade": "Cidade",
+		"Celular (Opcional)": "Celular (Opcional)",
+		"Telefone (Opcional)": "Telefone (Opcional)",
+		"Local de Realização do Serviço": "Local de Realização do Serviço",
+		"budget": "Você tem interesse em obter orçamento para quais soluções?",
+		"Projetos de desenvolvimento de Sistema da Qualidade": "Projetos de desenvolvimento de Sistema da Qualidade",
+		"Projetos de adequações à Certificações ISO": "Projetos de adequações à Certificações ISO",
+		"Tradução de Documentos Técnicos": "Tradução de Documentos Técnicos",
+		"Locação de Mão de Obra especialziada na Área da Qualidade": "Locação de Mão de Obra especialziada na Área da Qualidade",
+		"Projetos laboratoriais e LTA": "Projetos laboratoriais e LTA",
+		"Validações (Sistemas, Processos e Limpeza)": "Validações (Sistemas, Processos e Limpeza)",
+		"Qualificação de fornecedores": "Qualificação de fornecedores",
+		"Treinamentos 'In Company'": "Treinamentos 'In Company' ou remotos",
+		"Softwares Siemens": "Softwares Siemens",
+		"Gap": "GAP Analysis",
+		"Locação de Mão de Obra especializada na Área da Qualidade": "Locação de mão de obra especializada na Área da Qualidade",
+		"Sugestão": "Sugestão",
+		"Reclamação, Melhorias": "Reclamação, Melhorias",
+		"Dúvidas": "Dúvidas",
+		"comments": "Deixe aqui os seus comentários",
+		"Assinar": "Assinar",
+		"Enviando": "Enviando ...",
+		"message": "Mensagem",
+		"way": "Qual meio de resposta você gostaria de ser contatado?",
+		"phone": "Telefone",
+		"Cargo": "Cargo",
+		"Assunto": "Assunto",
+		"Telefone": "Telefone",
+		"whatsapp": "WhatsApp",
+		"rule": "Concordo em fornecer os dados à Kivalita Consulting, permanecendo tais dados sob sigilo e não compartilhados a terceiros",
+		"button": "Enviar",
+		"Enviar Contato": "Enviar Contato",
+		"Gostaria de receber contato por": "Gostaria de receber contato por",
+		"i agree form": "Eu aceito receber e-mails com notícias, conteúdos e contatos da Kivalita Consulting.",
+		"subscribe-newsletter": "Informe os dados para receber conteúdo exclusivo da Kivalita",
+		"whats-company": "Qual sua empresa?",
+		"whats-position": "Qual seu cargo?"
+	},
+	"home": {
+		"video": "https://www.youtube.com/embed/CnQ2PpUaIr4",
+		"one": {
+			"title": "KIVALITA SIGNIFICA QUALIDADE EM ESPERANTO",
+			"description": "A Kivalita Consulting fornece soluções e serviços em QUALIDADE para atender às necessidades da sua empresa. Levamos a qualidade que sua empresa merece.",
+			"button": {
+				"solution": "Nossas soluções",
+				"aboutUs": "Quem somos"
+			},
+			"slide": {
+				"one": "https://www.kivalitaconsulting.com/wp-content/uploads/2020/03/Quality-System-PT_520x320.png",
+				"two": "https://www.kivalitaconsulting.com/wp-content/uploads/2020/03/ISO-Certification-Adequacy-PT_520x320.png",
+				"three": "https://www.kivalitaconsulting.com/wp-content/uploads/2020/03/Documents-Translation-PT_520x320.png",
+				"four": "https://www.kivalitaconsulting.com/wp-content/uploads/2020/03/Leasing-of-Quality-PT_520x320.png",
+				"five": "https://www.kivalitaconsulting.com/wp-content/uploads/2020/03/Laboratory-Projects-and-LTA-PT_520x320.png",
+				"six": "https://www.kivalitaconsulting.com/wp-content/uploads/2020/03/Validations-PT_520x320.png",
+				"seven": "https://www.kivalitaconsulting.com/wp-content/uploads/2020/03/Suppliers-Qualifications-PT_-520x320-1.png",
+				"eight": "https://www.kivalitaconsulting.com/wp-content/uploads/2020/03/Training-in-Company-PT_520x320.png",
+				"nine": "https://www.kivalitaconsulting.com/wp-content/uploads/2020/03/Siemens-Software-PT_-520x320-2.png",
+				"ten": "https://www.kivalitaconsulting.com/wp-content/uploads/2020/05/Gap-Analysis_PT_520x320.png",
+				"eleven": "https://www.kivalitaconsulting.com/wp-content/Validação.jpeg",
+				"twelve": "https://www.kivalitaconsulting.com/wp-content/Gap analysis.jpeg",
+				"thirteen": "https://www.kivalitaconsulting.com/wp-content/Mão de obra.jpeg"
+			}
+		},
+		"two": {
+			"title": "Official Partner Siemens",
+			"subTitle": "Official Partner Siemens",
+			"description": {
+				"part1": "A Kivalita Consulting é Official Partner da Siemens!",
+				"part2": "Consulte-nos para conhecer as melhores soluções em softwares para o seu negócio."
+			},
+			"button": {
+				"learnAbout": "Conheça os Softwares Siemens"
+			}
+		},
+		"three": {
+			"title": "KIVALITA CONSULTING",
+			"subTitle": "Somos a Kivalita Consulting",
+			"description": {
+				"part1": "Fascinados por desenvolver soluções de qualidade e tecnologia para o seu negócio, a Kivalita Consulting é uma consultoria diferente, que busca soluções de forma rápida, atendendo as mais rigorosas exigências normativas do mercado.",
+				"part2": "Somos uma empresa de consultoria de qualidade especializada em soluções empresariais, formada por uma equipe multidisciplinar nas áreas de farmácia, química, engenharia, arquitetura, TI, meio ambiente e muitos outros!"
+			},
+			"button": {
+				"aboutUs": "Conheça a Kivalita Consulting"
+			}
+		},
+		"four": {
+			"title": "KIVALITA CONSULTING",
+			"subTitle": "Nossos Parceiros"
+		},
+		"Clients": {
+			"title": "Clientes",
+			"clientsTotal": "+ de 80 Clientes",
+			"expertise": "+ de 8 áreas de atuação"
+		}
+	},
+	"introduction": {
+		"solution": {
+			"title": "Como a Kivalita pode te ajudar?",
+			"subTitle": "SOLUÇÕES",
+			"content": "A Kivalita Consulting tem as mais diversas soluções para o seu negócio. Encontre abaixo nossos serviços e clique para saber mais."
+		},
+		"legislation": {
+			"title": "Como a Kivalita pode te ajudar?",
+			"subTitle": "LEGISLAÇÕES",
+			"content": "A Kivalita Consulting tem as mais diversas soluções para o seu negócio. Encontre abaixo as legislações aplicáveis de cada área e clique para baixá-las."
+		},
+		"budget": {
+			"title": "Solicite um Orçamento",
+			"subTitle": "SISTEMA DA QUALIDADE",
+			"content": "Envie agora uma solicitação de orçamento, retornaremos em breve!"
+		},
+		"contact": {
+			"title": "Entre em contato conosco, retornaremos o quanto antes."
+		},
+		"findUs": {
+			"title": "Onde Estamos",
+			"subTitle": "KIVALITA CONSULTING"
+		},
+		"jobs": {
+			"title": "Vagas Disponíveis",
+			"subTitle": "VAGAS"
+		},
+		"career": {
+			"title": "Deixe seu currículo",
+			"subTitle": "CARREIRA",
+			"content": "Preencha seus dados para arquivarmos em nosso banco de dados ou candidate-se à uma vaga anunciada!"
+		}
+	},
+	"jobs": {
+		"titles": {
+			"Analista da Garantia de Qualidade – Qualificação de equipamentos": "Analista da Garantia de Qualidade – Qualificação de equipamentos",
+			"Analista Financeiro II": "Analista Financeiro II",
+			"Analista em Desenvolvimento de TI / Full Stack Developer": "Analista em Desenvolvimento de TI / Full Stack Developer"
+		},
+		"descriptions": {
+			"Analista da Garantia de Qualidade – Qualificação de equipamentos": "<p><strong>Atuação</strong>:&nbsp;Experiência com qualificação de equipamentos (Fabris e de Controle Qualidade), sendo diferencial conhecimento em validações (validação de sistema e limpeza).</p><p>Atuar na elaboração, revisão e aprovação de protocolos e relatórios de Qualificação de Equipamentos, sendo que deve saber elaborar e realizar URSs, DQ, IQ, OQ, PQ de equipamentos de laboratório e fabril, com base nas IN 47/2019 e IN 43/2019 da RDC 301:2019</p><p>Realizar o levantamento dos requerimentos e necessidade para a execução das qualificações de equipamentos, bem como conhecimento Análise de Risco do equipamento.</p><p>Irá atuar na elaboração de POPs de Equipamentos, e procedimentos pertinentes ao assunto (manutenção, qualificação, calibração e validação).</p><p>Conhecimentos em procedimentos pertencentes a garantia da qualidade como CAPAs, Auto-Inspeções e Qualificação de Fornecedores. Participação de reports e call diários para equipe da matriz no idioma em inglês.</p><p><strong>Requisitos</strong>: Ensino Superior em Farmácia, Química ou áreas afins. Inglês avançado para leitura e escrita de protocolos.</p><p><strong>Diferencial:</strong> Pós-graduação na área de Qualidade. Participação em Implementação de Sistema da Qualidade, Conhecimento em Validação de sistema.</p><ul><li><strong>Regime de contratação:</strong>&nbsp;&nbsp;Prestador de serviços (PJ)</li><li><strong>Horário</strong>:&nbsp;De segunda a sexta, das 8:00 às 17:00.</li><li><strong>Remuneração</strong>:&nbsp;R$ 5.800,00</li><li><strong>Informações adicionais:</strong>&nbsp;&nbsp;Somos uma empresa de consultoria especializada em qualidade buscando profissionais para atuar nas mais diversas áreas do mercado de indústria farmacêutica, cosmética, química, saneantes e veterinária. Contrato inicial de 6 meses, podendo ser prorrogado conforme desempenho. Deve possui veículo próprio e disponibilidade para viagens.</li><li><strong>Idiomas</strong>:&nbsp;&nbsp;Inglês avançado para leitura e escrita de protocolos.</li></ul>",
+			"Analista Financeiro II": "Processamento de contas a pagar e a receber. Análise e controle de custos, gastos e despesas, conciliações bancárias identificações de todos os pagamentos, conferência e controle de extratos bancários, conferência de folha de pagamento, organizar pagamentos de impostos, faturamento e emissão de notas fiscais de clientes, pagamentos a fornecedores, análise das operações financeiras da empresa, coleta de dados de faturamento, análise do fluxo de caixa, simulações e projeções estratégicas de faturamento, identificar e resolver problemas econômico financeiros. Sugerir medidas para melhorar o desempenho financeiro da empresa, estudo de investimentos e financiamentos, negociação de prazos. Estudar a viabilidade econômica dos serviços, bem como sua adaptação no mercado. Negociação de contratos de serviços. Fazer cobranças e elaborar relatórios financeiros (DRE, Fluxo de Caixa e Balancete). Conhecimentos em outro idioma são desejáveis. Deverá ser pró-ativo, analítico, responsável, organizado, ser atento a detalhes, saber planejar, executar prazos, atuar em equipe e ter comunicação e relacionamento interpessoal. Ensino Superior em Administração de Empresas, Ciências Contábeis, Economia, Finanças, Gestão, ou áreas correlatas. Gostar de lidar com números. Necessário que saiba trabalhar com planilhas. Noções de gestão estratégica.</p><ul><li><strong>Regime de contratação:</strong>&nbsp;CLT</li><li><strong>Horário</strong>:&nbsp;De segunda a sexta, das 8:00 às 17:00.</li><li><strong>Informações adicionais:</strong>&nbsp;&nbsp;Disponibilidade para viagens e versabilidade para sempre aprender novas atividades. Será um diferencial possuir veículo próprio.</li><li><strong>Idiomas</strong>:&nbsp;Inglês fluente</li></ul>",
+			"Analista em Desenvolvimento de TI / Full Stack Developer": "<p>Atuar na área de desenvolvimento Full Stack .Net / Angular. Realizando manutenção e melhorias no site da própria empresa, assim como, será responsável pelo desenvolvimento, implantação e manutenção dos softwares das nossas empresas parceiras e clientes. Desenhar e desenvolver sistemas internos que ajudarão a alavancar o resultado da companhia. Estar apto para novos desafios, amplo conhecimento em .NET (C#) e boas práticas para o desenvolvimentos/manutenção de APIs, domínio em bancos de dados (relacionais e não-relacionais) e automatização de queries para consultas em SQL. Conhecimento em boas práticas de clean code, conhecimento em desenvolvimento com frameworks como Angular, React ou Vue.js. Saber a utilizar ferramentas para controle de versionamento (Git) e experiência com CMS (WordPress).</p><p><br></p><ul><li><strong>Regime de contratação:</strong>&nbsp;CLT</li><li><strong>Horário:</strong>&nbsp;De segunda a sexta, das 8:00 às 17:00.</li><li><strong>Informações adicionais:&nbsp;</strong>&nbsp;Disponibilidade para viagens e versatilidade para sempre aprender novas atividades. Será um diferencial possuir veículo próprio.</li><li><strong>Idiomas:</strong>&nbsp;Inglês fluente</li></ul>"
+		},
+		"button": "Candidatar-se a vaga",
+		"seeMore": "Ver mais vagas",
+		"resume": "Envie seu currículo"
+	},
+	"legislation": {
+		"Indústrias": "Indústrias",
+		"Importadoras e Distribuidoras": "Importadoras e Distribuidoras",
+		"Laboratórios": "Laboratórios",
+		"Fornecedores": "Fornecedores",
+		"Farmaceutica/Farmoquimica": "Farmacêutica e Farmoquímica",
+		"Cosmética": "Cosmética",
+		"Alimentícia": "Alimentícia",
+		"Química / Saneantes": "Química / Saneantes",
+		"Fitoterápicas / Homeopáticas": "Fitoterápicas / Homeopáticas",
+		"Sucroalcooleira": "Sucroalcooleira",
+		"Veterinária": "Veterinária",
+		"Laboratórios de Análises": "Laboratórios de Análises",
+		"button": "Baixar Legislação"
+	},
+	"meet": {
+		"title": "Agende uma",
+		"customTitle": "reunião com a Kivalita",
+		"description": "Acesse em tempo real a agenda de nossos consultores e agende seu vídeo-conference ou reunião presencial!",
+		"button": {
+			"schedule": "Agendar agora uma reunião",
+			"newsletter": "Assine nossa newsletter"
+		}
+	},
+	"menu": {
+		"Quem Somos": "Quem Somos",
+		"Soluções": "Soluções",
+		"Gap Analysis": "Gap Analysis",
+		"Sistema da Qualidade": "Sistema da Qualidade",
+		"Certificações ISO": "Certificações ISO",
+		"Tradução de Documentos Técnicos": "Tradução de Documentos Técnicos",
+		"Terceirização de Mão de Obra": "Terceirização de Mão de Obra",
+		"Projetos Laboratoriais e LTA": "Projetos Laboratoriais e LTA",
+		"Validações": "Validações",
+		"Qualificação de Fornecedores": "Qualificação de Fornecedores",
+		"Treinamentos": "Treinamentos",
+		"Softwares Siemens": "Softwares Siemens",
+		"Legislações": "Legislações",
+		"Orçamento": "Orçamento",
+		"Carreira": "Carreira",
+		"Contato": "Contato",
+		"Artigos": "Artigos",
+		"Entre em contato": "Entre em contato",
+		"Sugestões, reclamações e Melhorias": "Sugestões, reclamações e melhorias",
+		"Agendar Reunião": "Agendar Reunião",
+		"News": "News",
+		"Conteudo": "Conteúdo",
+		"Assuntos Regulatórios": "Assuntos Regulatórios",
+		"Download de Legislações": "Download de Legislações",
+		"Artigos de Legislação": "Artigos de Legislação",
+		"Novos Leões Kivalita": "Projeto Novos Leões Kivalita",
+		"Continuous K": "Continuous K",
+		"Auditoria": "Auditoria"
+	},
+	"suggestion": {
+		"headLine": "Sugestões, reclamações e melhorias",
+		"introduction": "Escreva aqui como podemos melhorar e/ou o que você precisa.",
+		"reasonContact": "Qual o motivo do contato?"
+	},
+	"thankyou": {
+		"congratulations": "Parabéns!",
+		"first-step": "Por dar o primeiro passo para trazer a sua empresa à qualidade que ela merece.",
+		"thank-you-contact": "Obrigado por nos contactar.",
+		"contact-soon": "Entraremos em contato com você em breve.",
+		"urgent-response": "Caso você precise de uma resposta urgente, ligue ou envie uma mensagem para o nosso número whatsapp:",
+		"thank-you-here": "Obrigado por estar aqui!",
+		"important-legislations": "Também temos uma lista de legislações importantes que você pode baixar.",
+		"know-more": "Saiba mais sobre:",
+		"quality-company": "Dê a qualidade que sua empresa merece!",
+		"bring-quality-company": "Traga à sua empresa a qualidade que ela merece.",
+		"services-know-more": "Saiba mais sobre nossos serviços:",
+		"multiple-services": "Também fornecemos vários serviços para entender, executar ou traduzir documento.",
+		"looking-legislation": "Se você estiver procurando por alguma legislação específica, entre em contato conosco.",
+		"contact": "Contato",
+		"go-back-site": "Voltar a navegar no site"
+	},
+	"breadCrumb": {
+		"article": "Artigos",
+		"budget": "Orçamento",
+		"career": "Carreira",
+		"contact": "Contato",
+		"job": "Vagas",
+		"legislation": "Legislações",
+		"news": "Notícias",
+		"suggestion": "Sugestões",
+		"thank-you": "Obrigado",
+		"solutions": "Soluções"
+	},
+	"cookie": {
+		"accept": "Aceitar",
+		"decline": "Rejeitar",
+		"message": "Nós utilizamos cookies para proporcionar uma melhor experiência a você usuário, caso queira saber como utilizamos esses dados entre em contato conosco."
+	},
+	"Slide": {
+		"GapAnalysis": {
+			"title": "GAP ANALYSIS",
+			"text": "A visualização como um todo dos gaps do seu negócio! Saiba aonde agir primeiro para melhorar seu processos.",
+			"url": "/gap-analysis",
+			"imageUrl": "https://www.kivalitaconsulting.com/wp-content/Slide/gapAnalysis.png"
+		},
+		"ValidacaoSistemas": {
+			"title": "Validação De Sistemas Computadorizados (VSC)",
+			"text": "Transformação Digital e compliance com as mais atuais legislações nacionais e internacionais.",
+			"url": "/validacoes-empresa",
+			"imageUrl": "https://www.kivalitaconsulting.com/wp-content/Slide/validacao.png"
+		},
+		"MaoObraEspecializada": {
+			"title": "Mão de Obra Especializada",
+			"text": "Especialistas da Qualidade para atuar em seus processos monitorados e treinados pela Kivalita Consulting.",
+			"url": "/terceirizacao-de-mao-de-obra",
+			"imageUrl": "https://www.kivalitaconsulting.com/wp-content/Slide/maoDeObra.png"
+		},
+		"Auditorias": {
+			"title": "Auditorias",
+			"text": " Internacionais e nacionais com atuação Nacional e Internancional a Kivalita possui os melhores profissionais de auditores Líderes a locação de mão de obra para auditores internos.",
+			"url": "/qualificacao-de-fornecedores",
+			"imageUrl": "https://www.kivalitaconsulting.com/wp-content/Slide/auditoria.png"
+		},
+		"ProjetosLaboratoriais": {
+			"title": "Projetos Laboratoriais",
+			"text": "Atuamos em laboratórios desde a planta passando por legislações e licenças até a locação de mão de obra especializadas.",
+			"url": "/projetos-laboratoriais-lta",
+			"imageUrl": "https://www.kivalitaconsulting.com/wp-content/Slide/projetosLaboratoriais.png"
+		},
+		"SistemaQualidade": {
+			"title": "Sistema de Qualidade",
+			"text": "Desenvolvemos ou aprimoramos o SGQ do seu negócio de A a Z.",
+			"url": "/sistema-qualidade",
+			"imageUrl": "https://www.kivalitaconsulting.com/wp-content/Slide/SGQ.png"
+		}
+	},
+	"Partners": {
+		"PageName": "Soluções digitais",
+		"SubTitle": "Somos parcerios Credenciados de validação de sistemas dos softwares de empresas como:",
+		"Docnix": {
+			"name": "Docnix",
+			"text": "Docnix Softwares de SGQ",
+			"imageUrl": "https://www.kivalitaconsulting.com/wp-content/v2-docnix.png",
+			"url": "https://docnix.com.br"
+		},
+		"B2Finance": {
+			"name": "B2 Finance",
+			"text": "B2 Finance B1 ERP",
+			"imageUrl": "https://www.kivalitaconsulting.com/wp-content/v2-b2-finance.png",
+			"url": "https://b2finance.com"
+		},
+		"Siemens": {
+			"name": "Siemens",
+			"text": "Siemens COMOS, LIMS, MES e XHQ",
+			"imageUrl": "https://www.kivalitaconsulting.com/wp-content/v2-Siemens.png",
+			"url": "https://www.siemens.com/global/en.html"
+		},
+		"Buttons": {
+			"SiteButton": "Conheça a",
+			"Validation": "Validações",
+			"Transformation": "Começe agora a sua tranformação digital"
+		}
+	},
+	"Artia": {
+		"title": "Usamos o ARTIA um software de gestão de projeto que permite:",
+		"option1": "Acompanhamento das atividades e tarefas pelo celular ou computador;",
+		"option2": "Estimativa de tempo de projetos e de cada tarefa realizada;",
+		"option3": "Geração de relatórios que se atualizam em tempo real e são enviados periodicaamente.",
+		"footer": "Tudo isso para garantir entrega e compromisso com o projeto do começo ao fim!"
+	},
+	"Content": {
+		"Title": "Soluções em Qualidade",
+		"Options": {
+			"Article": {
+				"title": "Artigos",
+				"imageUrl": "https://www.kivalitaconsulting.com/wp-content/article.jpeg",
+				"url": "/articles"
+			},
+			"News": {
+				"title": "Notícias",
+				"imageUrl": "https://www.kivalitaconsulting.com/wp-content/news.jpeg",
+				"url": "/news"
+			},
+			"SocialMidia": {
+				"title": "Mídia Social",
+				"imageUrl": "https://www.kivalitaconsulting.com/wp-content/socialMidia.jpeg",
+				"url": "https://www.linkedin.com/company/kivalita-consulting/"
+			},
+			"Legislations": {
+				"title": "Legislações",
+				"imageUrl": "https://www.kivalitaconsulting.com/wp-content/legislation.jpeg",
+				"url": "/legislation"
+			}
+		}
+	},
+	"Audit": {
+		"title": "Auditoria",
+		"subtitle": "Qualificação de Fornecedores",
+		"money": "Solicite um Orçamento",
+		"auditPrice": "37700",
+		"auditCurrency": "R$",
+		"first": {
+			"title": "Procurando por auditorias para qualificar seus fornecedores ou avaliar a sua empresa?",
+			"OptionsTitle": "SOLUÇÕES KIVALITA:",
+			"Options": {
+				"first": "Auditorias Internacionais (IFA) - Auditoria 360;",
+				"second": "Auditorias Nacionais (IFA, Fornecedores em Geral);",
+				"third": "Auditorias Internas ou Pontuais;"
+			},
+			"footer": "Realizar auditorias devem fazer parte da rotina de qualquer empresa, pois através desta avaliação é possível ter informações concretas, transparentes e seguras sobre os processos, identificando possíveis falhas no sistema da qualidade e no controle interno corporativo."
+		},
+		"second": {
+			"title": "Modalidades",
+			"subtitle": "Através de nossa equipe de auditores multidisciplinares, viabilizamos as auditorias de três formas contratuais:",
+			"Options": {
+				"first": {
+					"title": "Auditoria 360º",
+					"text": "Grupo Cooperativo de empresas interessadas em auditorias internacionais de IFAs, com rateio dos custos entre as empresas participantes."
+				},
+				"second": {
+					"title": "Contrato de Auditorias",
+					"text": "Modalidade para empresas que buscam realizar auditorias nacionais ou internacionais com um custo mensal previsível por mês."
+				},
+				"third": {
+					"title": "Auditorias pontuais",
+					"text": "Realização de auditorias de forma pontual, efetiva e rápida. Nesta aquisição é possível realizar auditorias para avaliação interna da empresa ou para qualificar um fornecedor."
+				}
+			},
+			"knowMore": "Saiba mais"
+		},
+		"third": {
+			"title": "Auditorias Internacionais",
+			"inner": {
+				"title": "Auditoria 360º",
+				"text": "Diante da RDC 301/2019, RDC 304/2019, RDC 69/2014 em Boas Praticas de Fabricação de IFAs, a Kivalita Consulting oferece um grupo cooperativo para as empresas que buscam a oportunidade de realizar auditorias de fornecedores pelo mundo com custo reduzido, promovendo qualidade para as empresas que desejam participar deste grupo.",
+				"text2": "Para isso, a empresa só precisa se inscrever (sem custo de inscrição) para conhecer os grupos existentes.",
+				"button": "INSCREVA-SE"
+			}
+		},
+		"fourth": {
+			"title": "Como funciona o Auditorias 360º?",
+			"inner": {
+				"text": "A Kivalita Consulting criou auditorias de fornecedores pelo mundo de forma cooperativa, garantindo a redução dos custos para as empresas que desejam participar deste grupo e receber o relatório da auditoria.",
+				"text2": "COMO É PLANEJADO O RATEIO:",
+				"text3": "O valor vai se dividindo mais a cada nova empresa que se juntar ao grupo e você só paga a quantidade necessária de auditorias para o seu negócio.",
+				"text4": "Realize aqui uma simulação de custos de auditorias neste grupo:"
+			}
+		},
+		"fifth": {
+			"title": "Auditorias Nacionais e Internas",
+			"OptionsTitle": "Considerando as modalidades contratuais de Contrato de Auditorias e Auditorias Pontuais, e através de uma equipe de auditores multidisciplinar, a Kivalita Consulting realiza auditorias nas seguintes áreas:",
+			"Options": {
+				"first": "Indústrias",
+				"second": "Importadoras e distribuidoras;",
+				"third": "Fornecedores;",
+				"fourth": "Laboratórios;",
+				"fifth": "Matéria-prima;",
+				"sixth": "Embalagens;",
+				"seventh": "Serviços terceirizados;",
+				"eighth": "Tecnologia;"
+			},
+			"footer": "As Auditoria Pontuais e Auditorias Internas tem como missão verificar os GAPs ou possíveis oportunidades de Melhorias nos processos com o objetivo de evitar desvios, custos extras no processo e retrabalhos."
+		},
+		"sixth": {
+			"title": "Você fornecedor, buscando se qualificar para atender o mercado brasileiro?",
+			"OptionsTitle": "Após a emissão de uma nova lei no Brasil para industrias farmaceuticas (RDC 301/2019) está sendo exigido a qualificação de fornecedores através de auditoria presencial para os fornecedores que produzem materia prima e material de embalagem fora e dentro do Brasil.",
+			"OptionsTitle2": "Gostaria de sair na frente e se qualificar com a Kivalita consulting e abrir mercado nas industrias brasileiras? Realizamos auditoria para as mais diversas áreas, sendo:",
+			"Options": {
+				"first": "Indústrias",
+				"second": "Importadoras e distribuidoras;",
+				"third": "Fornecedores;",
+				"fourth": "Laboratórios;",
+				"fifth": "Matéria-prima;",
+				"sixth": "Embalagens;",
+				"seventh": "Serviços terceirizados;",
+				"eighth": "Tecnologia;"
+			},
+			"footer": "Através de uma auditoria pontual presencial, a Kivalita Consulting com sua equipe multidisciplinar poderá compartilhar esta qualificação as empresas que forem de interesse no Brasil. Quer saber mais? Preencha esse formulario e receba o nosso contato."
+		},
+		"seventh": {
+			"title": "Qual a melhor opção para você?",
+			"audits": {
+				"first": {
+					"title": "Auditoria 360",
+					"text": "Solução para quem busca baixo custo através de um grupo coperativo de auditorias internacionais",
+					"Options": {
+						"first": "Defina o numero de auditorias que precisa realizar por mês, conforme um cronograma de prioridade de auditorias;",
+						"second": "ILimite o número de auditorias por mês para adequar ao budget;",
+						"third": "Categorização de fornecedores para auditar conforme sua criticidade perante o negócio ou legislação;",
+						"fourth": "Realização de auditorias considerando Legislação aplicavel (BPF/GMP), estratégia de negócio e/ou ISOs."
+					},
+					"formId": "auditoria-360-3a19104644ee620f0a6e",
+					"form": "new RDStationForms('auditoria-360-3a19104644ee620f0a6e', 'UA-156947544-1').createForm()"
+				},
+				"second": {
+					"title": "Contrato de Auditorias Nacionais",
+					"text": "Solução para quem busca previsibilidade de custos sem abrir mão de uma rotina de auditorias mensais em fornecedores",
+					"Options": {
+						"first": "Defina o numero de auditorias que precisa realizar por mês, conforme um cronograma de prioridade de auditorias;",
+						"second": "Limite o número de auditorias por mês para adequar ao budget;",
+						"third": "Categorização de fornecedores para auditar conforme sua criticidade perante o negócio ou legislação;",
+						"fourth": "Realização de auditorias considerando Legislação aplicavel (BPF/GMP), estratégia de negócio e/ou ISOs."
+					},
+					"formId": "auditorias-nacionais-9917c993fa03c9e14e74",
+					"form": "new RDStationForms('auditorias-nacionais-9917c993fa03c9e14e74', 'UA-156947544-1').createForm()"
+				},
+				"third": {
+					"title": "Auditorias Pontuais",
+					"text": "Solução para quem busca uma avaliação pontual interna (para ISO ou BPF) ou uma auditoria única em um fornecedor específico.",
+					"Options": {
+						"first": "Defina a modalidade que deseja realizar e direcione os foco da auditoria (ISO,ONA, RDCs, BPFs, etc);",
+						"second": "Liste as necessidades de estratégia do negócio e verifique se os setores (ou fornecedor) está atendendo-as;",
+						"third": "Obtenha um relatorio completo para tomada de decisão sobre GAPs detectados."
+					},
+					"formId": "auditorias-pontuais-8fce037e7fff1303965f",
+					"form": "new RDStationForms('auditorias-pontuais-8fce037e7fff1303965f', 'UA-156947544-1').createForm()"
+				}
+			},
+			"footer": "Modalidade contratual: Mínimo 6 a 12 meses.",
+			"button": "Adquirir Agora"
+		},
+		"eighth": {
+			"method": "São fornecidos auditores para a realização de qualificação, conforme a especificidade de cada fornecedor, legislação ou normativa ISO.",
+			"benefits": "<ul><li>Disponibilização de variabilidade de mão de obra especializada para a realização de qualificação de fornecedores conforme o tipo de fornecedor e legislação a ser seguido (ISO);</li><li>Atendimento para a realização de qualificações em nível nacional e internacional de auditorias;</li><li>Possibilidade de realização de várias auditorias em um curto espaço de tempo para atendimento de cronogramas de qualificação.</li></ul>"
+		},
+		"nineth": {
+			"title": "PLATAFORMA PARA GESTÃO DAS AUDITORIAS",
+			"text": "Acompanhe em tempo real as auditorias planejadas e ações sobre o seu projeto através de celulares ou computadores por plataformas  exclusivas da Kivalita!",
+			"text2": "Esse acesso digital é uma exclusividade da Kivalita Consulting e não cobramos nada a mais por isso!"
+		},
+		"tenth": {
+			"title": "APÓS REALIZADAS AS AUDITORIAS, E AGORA?",
+			"text": "O acompanhamento dos GAPs/Desvios detectados se faz necessario, além da alocação de colaboradores para a realização as ações previstas.",
+			"text2": "Mas, como realizar uma gestão efetiva sem deixar  que nada seja esquecido e garantir a comunicação  permanente com os fornecedores (nacionais ou internacionais) a baixo custo?",
+			"text3": "Para quem busca essa visão facilitada e sem preocupação a Kivalita oferece a solução Continuous K.",
+			"text4": "Clique aqui e saiba mais sobre essa modalidade de assessoria do Continuous K "
+		}
+	}
+}
